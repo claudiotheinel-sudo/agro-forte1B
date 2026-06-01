@@ -10,17 +10,24 @@ body {
     height: auto;
 }
 
-.h1 {
+h1 {
     color:blue;
 }
 
-.h2 {
+h2 {
 
     color:brown;
     
 }
 footer{
+     background-color:#191717;
+    color:antiquewhite;
+}
+footer{
     background-color:#191717;
     color:rgb(209, 126, 18);
 
+   
+
 }
+
